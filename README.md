@@ -25,7 +25,7 @@ I’m passionate about every project I work on — check out my repositories for
 
 ### ✨ About Me
 
-With over X years of experience, I specialize in building robust, scalable, and intelligent backend systems that power data-driven applications. My expertise bridges the gap between AI/ML research and real-world deployment, with a focus on automation, reliability, and delivering business value.
+With over 8+ years of experience, I specialize in building robust, scalable, and intelligent backend systems that power data-driven applications. My expertise bridges the gap between AI/ML research and real-world deployment, with a focus on automation, reliability, and delivering business value.
 
 ---
 
